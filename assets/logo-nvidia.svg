@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 130" width="240" height="130">
+  <!-- NVIDIA Eye icon -->
+  <g transform="translate(70, 0) scale(0.95)">
+    <!-- Green square background -->
+    <rect x="20" y="2" width="75" height="75" rx="4" fill="#76B900"/>
+    <!-- Eye shape - outer -->
+    <path d="M58 12c-20 0-33 18-33 18s13 22 33 22c14 0 27-12.5 27-12.5V14C77 14 69 12 58 12z" fill="white"/>
+    <!-- Eye shape - inner swirl -->
+    <path d="M58 18c-14 0-24 12-24 12s10 16 24 16c11 0 20-9 20-9V20c-5-1.5-11-2-20-2z" fill="#76B900"/>
+    <path d="M58 24c-8 0-15 8-15 8s7 10 15 10c8 0 14-6 14-6V26c-3-1.2-7-2-14-2z" fill="white"/>
+    <path d="M58 30c-4 0-8 4-8 4s4 6 8 6c5 0 9-4 9-4v-4c-2-.8-5-2-9-2z" fill="#76B900"/>
+  </g>
+  <!-- NVIDIA wordmark -->
+  <g transform="translate(0, 90)">
+    <text font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="36" fill="#76B900" letter-spacing="3" text-anchor="middle" x="120" y="30">NVIDIA</text>
+  </g>
+</svg>
