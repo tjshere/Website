@@ -701,3 +701,7 @@ a.project:hover { border-color: var(--brass); transform: translateY(-2px); }
     .site-header { flex-wrap: wrap; }
     .header-right { width: 100%; justify-content: space-between; }
 }
+
+/* avatar easter egg — the popout hints there's something there; it links to the game */
+.avatar-link { display: inline-flex; border-radius: 50%; }
+.wordmark-name { color: inherit; text-decoration: none; }
